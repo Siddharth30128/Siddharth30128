@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  👨‍💻 About Me<br><br>- 🔭 I'm currently working on AI & Web Development projects.<br>- 🤝 I'm looking to collaborate on Open Source and AI projects.<br>- 🌱 I'm currently learning DSA, Machine Learning, and Full Stack Development.<br>- 💬 Ask me about C++,, HTML, CSS, and JavaScript.<br>- ⚡ Fun fact: I enjoy building practical projects that solve real-world problems.
 
 
